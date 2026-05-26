@@ -96,12 +96,12 @@
   <br><br>
 
   <a href="mailto:kailashv2985@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42" style="vertical-align:middle; margin:0 29px;" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" style="vertical-align:middle; margin:0 19px;" />
   </a>
 
 
   <a href="https://www.linkedin.com/in/kailash07/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="vertical-align:middle; margin:0 28px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="vertical-align:middle; margin:0 18px;" />
   </a>
   
 
@@ -111,7 +111,7 @@
   
 
   <a href="https://x.com/MikroJaxi">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="42" style="vertical-align:middle; margin:0 38px;" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="42" style="vertical-align:middle; margin:0 18px;" />
   </a>
   
 
