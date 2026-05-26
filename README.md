@@ -1,129 +1,118 @@
-# Kailash
+<div align="center">
+    
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=KAILASH;Full-Stack+Developer+%7C+AI+Engineer+%7C+UI%2FUX+Designer;Building+Agentic+AI+Systems+%26+Production-Ready+LLM+Apps;React+%E2%80%A2+TypeScript+%E2%80%A2+RAG+%E2%80%A2+Voice+AI+%E2%80%A2+FastAPI" alt="Typing SVG" />
 
-**Full-Stack Developer · UI/UX Designer · AI Engineer**  
-Building Agentic AI systems, voice interfaces, and production-ready LLM applications —  
-from Figma wireframes to Dockerized backends to deployed products.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash07/)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square&logoColor=black)](https://huggingface.co/Kailashalgo)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kailashv2985@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kailash07-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash07/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Live%20Demos-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Kailashalgo)
-[![Email](https://img.shields.io/badge/Gmail-kailashv2985@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kailashv2985@gmail.com)
+</div>
 
----
+<br/>
 
-## About
+> I own the full stack — **Figma to Docker**, schema to deployment.
+> Every project ships with a real problem, a deliberate tech decision, and a **live URL**.
 
-I build complete, production-ready products — not just code that runs locally.
-
-My work sits at the intersection of AI engineering, full-stack development,
-and product design. I own the full stack: database schema to deployment pipeline,
-Figma mockup to FastAPI endpoint, prompt engineering to Docker container.
-
-I specialize in **Agentic AI** and **LLM application architecture** —
-building systems that reason, retrieve, and act, not just generate text.
-Every project I ship solves a real problem, uses real tooling, and is
-accessible via a live URL.
+<br/>
 
 ---
 
-## Projects
+### 🚀 Shipped
 
-### Voice AI Chat
-> Speak. It thinks. It talks back — in real time.
-
-Real-time voice AI assistant that chains three AI systems in sequence.
-The challenge was not the AI — it was building a pipeline fast enough
-to feel like an actual conversation.
-Browser mic → FastAPI → Groq Whisper (STT) → LLaMA 3.3 70B → gTTS (TTS) → Audio back
-
-Full round-trip in under 2 seconds. Dockerized. Deployed. Free to use.
-
-`FastAPI` `Groq Whisper Large V3 Turbo` `LLaMA 3.3 70B` `gTTS` `Docker` `Python`
-
-[→ Live Demo](https://huggingface.co/spaces/Kailashalgo/voice-ai-chat) · [→ Repository](https://github.com/kailashv2/voice-ai-chat)
+| | Project | Stack |
+|:---:|---|---|
+| 🎙️ | **[Voice AI Chat](https://github.com/kailashv2/voice-ai-chat)** — Mic → STT → LLM → TTS in under 2s &nbsp; [↗ demo](https://huggingface.co/spaces/Kailashalgo/voice-ai-chat) | `FastAPI` `Groq Whisper` `LLaMA 3.3` `Docker` |
+| 📄 | **[RAG Document Chat](https://github.com/kailashv2/rag-document-chats)** — Chat with any PDF, zero hallucination &nbsp; [↗ demo](https://huggingface.co/spaces/Kailashalgo/rag-document-chat) | `LangChain` `ChromaDB` `Groq` `HuggingFace` |
+| 🤖 | **[AI Agent](https://github.com/kailashv2/ai-agent)** — Thinks, searches, and acts autonomously | `FastAPI` `ReAct Loop` `Tool Calling` `Docker` |
+| 💚 | **[CharityConnect](https://github.com/kailashv2/haid-charityconnect)** — Full-stack donation platform for a real charity | `React 18` `TypeScript` `PostgreSQL` `Drizzle ORM` |
 
 ---
 
-### RAG Document Chat
-> Chat with any PDF — grounded answers, zero hallucination.
+### 🛠️ Stack
 
-Built a complete RAG pipeline from scratch. Every answer is retrieved
-directly from the uploaded document — not generated from training memory.
-PDF → Text extraction → Chunking → HuggingFace Embeddings
-→ ChromaDB vector store → Similarity search → Groq LLaMA 3.1 → Answer
-
-`FastAPI` `LangChain` `ChromaDB` `Groq LLaMA 3.1` `HuggingFace` `Python`
-
-[→ Live Demo](https://huggingface.co/spaces/Kailashalgo/rag-document-chat) · [→ Repository](https://github.com/kailashv2/rag-document-chats)
-
----
-
-### CharityConnect
-> Transparent charity platform — every donation tracked, every rupee visible.
-
-Full-stack TypeScript application built for HAID, a real charitable organization.
-Type-safe from React frontend to PostgreSQL database — Drizzle ORM enforcing
-schema consistency end to end.
-
-- Real-time analytics dashboard — 30-second polling updates
-- Complete donation and beneficiary lifecycle management
-- Dark/light mode with system preference detection
-- Fully responsive across all screen sizes
-
-`React 18` `TypeScript` `Express.js` `Drizzle ORM` `PostgreSQL` `Tailwind CSS` `Vite`
-
-[→ Repository](https://github.com/kailashv2/haid-charityconnect)
+#### 🤖 AI Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC4D?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=flat-square&logo=meta&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG-Pipelines-0A0A0A?style=flat-square&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector-Search-5B21B6?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-111827?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-2563EB?style=flat-square&logoColor=white)
 
 ---
 
-## Tech Stack
-
-**AI Engineering**  
-`LangChain` `LangGraph` `ChromaDB` `HuggingFace Transformers` `Groq`  
-`Whisper` `LLaMA` `RAG Pipelines` `Vector Search` `Agentic AI` `Prompt Engineering`
-
-**Frontend & Design**  
-`React 18` `TypeScript` `Tailwind CSS` `Figma` `Vite` `HTML5` `CSS3`  
-`Responsive Design` `Design Systems` `Component Architecture`
-
-**Backend & Databases**  
-`FastAPI` `Node.js` `Express.js` `Python` `PostgreSQL` `ChromaDB` `Drizzle ORM` `REST APIs`
-
-**Infrastructure & Tooling**  
-`Docker` `GitHub Actions` `HuggingFace Spaces` `Git` `Postman`
+#### 🎨 Frontend & Design
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-0F172A?style=flat-square&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design-Systems-7C3AED?style=flat-square&logoColor=white)
+![Component Architecture](https://img.shields.io/badge/Component-Architecture-14B8A6?style=flat-square&logoColor=white)
 
 ---
 
-## Engineering Approach
-
-Three things every project I ship must have:
-
-**A real problem.** Not a todo app or weather widget. Real use cases with
-real constraints — document intelligence, charity fund transparency, voice AI.
-
-**Technical decisions I can defend.** Why Drizzle ORM over Prisma.
-Why ChromaDB over Pinecone. Why Groq over OpenAI. Why gTTS over ElevenLabs.
-Every choice was deliberate.
-
-**A live URL.** Code that only runs on localhost is not a project.
+#### ⚙️ Backend & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7B61FF?style=flat-square&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-ORM-C5F74F?style=flat-square&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST-APIs-02569B?style=flat-square&logoColor=white)
 
 ---
 
-## Currently
+#### 🚀 Infrastructure & Tooling
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![HuggingFace Spaces](https://img.shields.io/badge/HuggingFace-Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-```python
-current_focus = {
-    "Agentic AI":     "LangGraph multi-agent workflows with tool-calling LLMs",
-    "Voice AI":       "Streaming audio response + conversation memory",
-    "RAG":            "Multi-PDF support + source citations with page numbers",
-    "CharityConnect": "Stripe payments + JWT authentication",
-    "DevOps":         "GitHub Actions CI/CD pipelines for all projects"
-}
+### ⚡ Currently Building
+
+```text
+→  LangGraph multi-agent workflows with tool-calling LLMs
+→  Streaming voice AI with conversation memory
+→  Multi-PDF RAG with page-level citations
+→  CI/CD pipelines across all projects
 ```
 
 ---
 
-## Let's Connect
+<div align="center">
 
-Open to interesting projects, collaborations, and opportunities.
+  <sub><b>Open to the right opportunities</b></sub>
 
-[LinkedIn](https://www.linkedin.com/in/kailash07/) · [Email](mailto:kailashv2985@gmail.com) · [HuggingFace](https://huggingface.co/Kailashalgo)
+  <br><br>
+
+  <a href="mailto:kailashv2985@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" style="vertical-align:middle; margin:0 29px;" />
+  </a>
+
+
+  <a href="https://www.linkedin.com/in/kailash07/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="vertical-align:middle; margin:0 28px;" />
+  </a>
+  
+
+  <a href="https://huggingface.co/Kailashalgo">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42" style="vertical-align:middle; margin:0 18px;" />
+  </a>
+  
+
+  <a href="https://x.com/MikroJaxi">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="42" style="vertical-align:middle; margin:0 38px;" />
+  </a>
+  
+
+</div>
