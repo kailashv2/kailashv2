@@ -21,9 +21,9 @@
 
 | | Project | Stack |
 |:---:|---|---|
+| 🤖 | **[AI Agent](https://github.com/kailashv2/ai-agent)** — Autonomous agent: web search, code execution, weather, currency &nbsp; [↗ demo](https://ai-agent-p13l.onrender.com) | `LangGraph` `FastAPI` `Groq` `Tavily` `Docker` |
 | 🎙️ | **[Voice AI Chat](https://github.com/kailashv2/voice-ai-chat)** — Mic → STT → LLM → TTS in under 2s &nbsp; [↗ demo](https://huggingface.co/spaces/Kailashalgo/voice-ai-chat) | `FastAPI` `Groq Whisper` `LLaMA 3.3` `Docker` |
 | 📄 | **[RAG Document Chat](https://github.com/kailashv2/rag-document-chats)** — Chat with any PDF, zero hallucination &nbsp; [↗ demo](https://huggingface.co/spaces/Kailashalgo/rag-document-chat) | `LangChain` `ChromaDB` `Groq` `HuggingFace` |
-| 🤖 | **[AI Agent](https://github.com/kailashv2/ai-agent)** — Thinks, searches, and acts autonomously | `FastAPI` `ReAct Loop` `Tool Calling` `Docker` |
 | 💚 | **[CharityConnect](https://github.com/kailashv2/haid-charityconnect)** — Full-stack donation platform for a real charity | `React 18` `TypeScript` `PostgreSQL` `Drizzle ORM` |
 
 ---
@@ -81,9 +81,9 @@
 ### ⚡ Currently Building
 
 ```text
-→  LangGraph multi-agent workflows with tool-calling LLMs
-→  Streaming voice AI with conversation memory
-→  Multi-PDF RAG with page-level citations
+→  LangGraph multi-agent with web search, code execution & tool calling [shipped ✓]
+→  Streaming voice AI with conversation memory [shipped ✓]
+→  Multi-PDF RAG with page-level citations [shipped ✓]
 →  CI/CD pipelines across all projects
 ```
 
@@ -99,20 +99,16 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="42" style="vertical-align:middle; margin:0 19px;" />
   </a>
 
-
   <a href="https://www.linkedin.com/in/kailash07/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="vertical-align:middle; margin:0 18px;" />
   </a>
-  
 
   <a href="https://huggingface.co/Kailashalgo">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="42" style="vertical-align:middle; margin:0 18px;" />
   </a>
-  
 
   <a href="https://x.com/MikroJaxi">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="42" style="vertical-align:middle; margin:0 18px;" />
   </a>
-  
 
 </div>
